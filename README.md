@@ -1,4 +1,6 @@
 # LMSGI-02
+https://rawgit.com/Sebaslc1077/LMSGI-02/master/index.html
+
 **Resizer**
 
 ![Alt text](https://gyazo.com/a6dbf61b6ed0fad9eb3b8e90fd691b50.png "Resizer1")
