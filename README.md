@@ -9,4 +9,3 @@ https://rawgit.com/Sebaslc1077/LMSGI-02/master/index.html
 **TinyPNG**
 
 ![Alt text](https://i.gyazo.com/f8686b06a5315d5c9d0c54e5b7548560.png "Tinypng")
-![Alt text](LMSGI-02/img/bulldog1.jpg?raw=true "Title")
